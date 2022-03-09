@@ -1,4 +1,4 @@
-# 💫About me
+# 💫About Me
 Hello!<br />
 My name is Carlos and I'm a back-end developer. I'm currently learning SOLID, Clean Code and Clean Architecture
 
